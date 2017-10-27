@@ -1,0 +1,12 @@
+
+ur first task is to implement the algorithms that we learned in class using a fixed size integer array, size of 10. (THIS IS YOUR DATA STRUCTURE) 
+Using an iterative approach
+Using a recursive approach
+	
+	ALGORITHMS:
+Selective Sort
+Insertion Sort
+Shell Sort 		Note: Use Hibbard Sequence =  1, 3, 7, …, (2*previous + 1)]
+Merge Sort
+Quick Sort
+Radix Sort
